@@ -1,5 +1,7 @@
-# Merlin for Sublime Text 3
+# Merlin 2 for Sublime Text 3
 
+This fork of Sublime-Text-Merlin brings support for Merlin 2. It should be considered alpha quality.
+ 
 ## About
 
 This plugin for Sublime Text 3 allows you to analyse OCaml source code, autocomplete and infer types while writing. It checks automatically for syntax or typing errors.
