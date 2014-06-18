@@ -16,7 +16,7 @@ The shorter way of doing this is with [opam](opam.ocaml.org), an OCaml package m
 
 Next, install this package in your *Packages* folder :
 
-    git clone https://github.com/Cynddl/sublime-text-merlin.git
+    git clone https://github.com/def-lkb/sublime-text-merlin.git
 
 For the moment (during development), sublime-text-merlin is not listed in the Package Manager.
 
